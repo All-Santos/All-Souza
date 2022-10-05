@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @All-Souza
-- 👀 I’m interested work with webdesing
+- 👀 I’m interested work with web designer
 - 🌱 I’m currently learning html,css and java scrpty
 - 💞️ I’m looking to collaborate on front-end
 - 📫 How to reach me alessandro_souz@outlook.com
